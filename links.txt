@@ -1,0 +1,3 @@
+https://learn.microsoft.com/pt-br/sql/relational-databases/replication/sql-server-replication
+https://learn.microsoft.com/pt-br/sql/tools/bcp-utility
+https://www.google.com/url?sa=E&source=gmail&q=https://www.red-gate.com/simple-talk/databases/sql-server/database-administration/sql-server-replication-provider-performance/
